@@ -87,7 +87,3 @@ This page is a guide to the projects in my GitHub repositories, from APIs to ana
 
 - [Student Grading System](https://github.com/elizaveta-sk/web_development_projects/tree/main/php/01_student_grading_system)
 - [Electronics Store Utilities](https://github.com/elizaveta-sk/web_development_projects/tree/main/php/02_electronics_store_utilities)
-
----
-
-Each repository contains source code and project-specific documentation. For an overview of the full body of work, start with the featured projects above.

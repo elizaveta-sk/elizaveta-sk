@@ -1,6 +1,6 @@
 # Hi, I'm Elizaveta Skomorokhova
 
-I build practical software across back-end engineering, data analysis, machine learning, and algorithms. This profile is a guide to the projects in my GitHub repositories, from production-minded APIs to analytical studies and core computer-science implementations.
+This page is a guide to the projects in my GitHub repositories, from APIs to analytical studies and computer science study projects.
 
 ## Featured work
 
